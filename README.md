@@ -1,0 +1,2 @@
+# testBuildBeforeCommit
+just a test
