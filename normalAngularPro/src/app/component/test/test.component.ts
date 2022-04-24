@@ -11,7 +11,6 @@ export class TestComponent implements OnInit {
 
   ngOnInit(): void {
 
-    
   }
 
 }
